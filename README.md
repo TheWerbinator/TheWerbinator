@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheWerbinator
-- 👀 I’m interested in marketing.
-- 🌱 I’m currently learning algorithms and data structures in python.
-- 💞️ I’m looking to collaborate on automation software.
+- 👀 I’m interested in beautiful design and interaction.
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking to collaborate on new web apps.
 - 📫 Reach me at shawnthewerber@gmail.com
