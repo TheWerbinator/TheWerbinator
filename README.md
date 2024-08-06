@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheWerbinator
 - 👀 I’m interested in beautiful design and interaction.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on new web apps.
 - 📫 Reach me at shawnthewerber@gmail.com
