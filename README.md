@@ -12,12 +12,12 @@
   </a>
 </div>
 
-<!--
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/thewerbinator/count.svg" />
+  <br/>
+  Thanks for stopping by!
 </p>
--->
 
 <!-- <a href="https://profile.codersrank.io/user/thewerbinator">![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thewerbinator)</a> -->
 
