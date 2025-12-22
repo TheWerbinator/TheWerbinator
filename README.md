@@ -17,32 +17,31 @@
 ```javascript
 const shawn = {
     code: [TypeScript, Javascript, C#],
-    askMeAbout: ["web dev", "cloud computing", "UI/UX", "tech trends"],
+    askMeAbout: ["web dev", "AI", "cloud computing", "UI/UX", "tech trends"],
     technologies: {
         frontEnd: {
             js: [React, "Next.js"],
-            css: [Sass, PicoCSS],
-            uiLibraries: ["Material UI", "shadcn/ui"],
+            css: [Sass, WebAwesome],
+            uiLibraries: ["UntitledUI", "shadcn"],
         },
         backEnd: {
             js: [Node, Express, Prisma],
             python: [Flask],
         },
+        databases: [PostgreSQL, MongoDB, SQLite],
         devOps: [Docker🐳, Nginx, "GitHub Actions"],
         cloudServices: {
             aws: [EC2, S3, Lambda],
         },
-        databases: [PostgreSQL, MongoDB, SQLite],
-        misc: ["REST APIs"],
     },
-    currentFocus: "Harnessing the Cloud",
+    currentFocus: "Building actually useful AI apps",
     funFact: "I've climbed Angel's Landing 8 times!"
 };
 ```
 
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/thewerbinator/count.svg" />
+  ![](https://komarev.com/ghpvc/?username=TheWerbinator)
   <br/>
   Thanks for stopping by!
 </p>
