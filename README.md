@@ -36,7 +36,7 @@ const shawn = {
         databases: [PostgreSQL, MongoDB, SQLite],
         devOps: [Docker🐳, "GitHub Actions", "AWS(EC2/S3/Lambda)"],
     },
-    currentFocus: "Engineering deterministic AI systems for complex industrial datasets",
+    currentFocus: "Engineering AI systems for complex datasets",
     funFact: "I've climbed Angel's Landing 8 times!"
 };
 ```
