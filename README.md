@@ -11,6 +11,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+<br/>
+<p>Most of my day-to-day work is in private enterprise and client repositories, but my contribution graph reflects my daily activity.</p>
+<br/>
 
 <!-- <a href="https://profile.codersrank.io/user/thewerbinator">![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thewerbinator)</a> -->
 
