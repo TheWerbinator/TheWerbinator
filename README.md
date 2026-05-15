@@ -23,7 +23,8 @@ const shawn = {
     askMeAbout: ["RAG Architecture", "Industrial AI", "Web Dev", "Tech Trends"],
     technologies: {
         ai_ml: {
-            orchestration: [LangChain, OpenAI],
+            apis: [Claude, Gemini, GPT],
+            orchestration: [LangChain, RAG],
             vector_infra: [ChromaDB, "Hugging Face Embeddings"],
             extraction: ["Unstructured.io"],
         },
