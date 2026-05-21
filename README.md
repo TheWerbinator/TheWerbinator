@@ -12,14 +12,18 @@
   </a>
 </div>
 <br/>
-<p>Most of my day-to-day work is in private enterprise and client repositories, but my contribution graph reflects my daily activity.</p>
+<strong>What's happening here in 2026
+</strong>
+<p>
+I'm an agency owner with 7 years of industry experience whose client work is mostly in private enterprise and client repositories, but my contribution graph reflects my daily activity. Some new repos pinned below are portfolio rewrites of analyses and algorithms I built during my CS degree, wrapped with the engineering discipline I now use day-to-day: typed APIs, property tests, CI, containerized deploys, etc. The math/algorithm content is from coursework; the tooling, deployment, and reframing is recent.
+</p>
 <br/>
 
 <!-- <a href="https://profile.codersrank.io/user/thewerbinator">![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thewerbinator)</a> -->
 
 ```javascript
 const shawn = {
-    code: [TypeScript, Javascript, C#, "C/C++"],
+    code: [TypeScript, Javascript, Python, C#],
     askMeAbout: ["RAG Architecture", "Industrial AI", "Web Dev", "Tech Trends"],
     technologies: {
         ai_ml: {
@@ -35,7 +39,7 @@ const shawn = {
         },
         backEnd: {
             js: [Node, Express, Prisma, Supabase],
-            python: [Flask, gRPC, REST],
+            python: [FastAPI, gRPC, REST],
         },
         databases: [PostgreSQL, MongoDB, SQLite],
         devOps: [Docker🐳, "GitHub Actions", "AWS(EC2/S3/Lambda)"],
