@@ -1,19 +1,23 @@
-<h2>Hey <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px" alt="waving hand emoji"> I'm Shawn! <img src="https://media.tenor.com/ilCBXZZ3CCMAAAAi/halo-master-chief.gif" width="50" alt="Master Chief performing Orange Justice"></h2>
-<p>Lead AI Engineer of <a href="https://elevation.tech/">Elevation Tech</a>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Cat frantically typing on a laptop">
-</p>
-<p>Software Engineer at <a href="https://suu.edu/">Southern Utah University</a>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG43eDRvbWJoem94ZXczYnd0OWtzbG0xd3NoMzRrNnh1bjVtejQ1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bV3EE0vBfb6ghxEVfD/giphy.gif" width="50" alt="SUU's Fighting Thor">
-</p>
+<h2>Hey <img src="https://github.com/TheWerbinator/TheWerbinator/blob/main/Hi.gif" width="29px" alt="waving hand emoji"> I'm Shawn! <img src="https://github.com/TheWerbinator/TheWerbinator/blob/main/halo-master-chief.gif" width="50" alt="Master Chief performing Orange Justice"></h2>
+<p>AI Engineer at <a href="https://www.e360.com/">e360</a>.</p>
 <a href="https://www.linkedin.com/in/shawn-werber">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <br/>
 <br/>
-<strong>What's happening here in 2026
+<strong>What I'm working on
 </strong>
 <p>
-I'm an AI engineer with 7 years of industry experience whose client work is mostly in private enterprise and client repositories, but my contribution graph reflects my daily activity. Some new repos pinned below are portfolio rewrites of analyses and algorithms I built during my CS degree, wrapped with the engineering discipline I now use day-to-day: typed APIs, property tests, CI, containerized deploys, etc. The math/algorithm content is from coursework; the tooling, deployment, and reframing is recent.
+I'm an AI engineer with seven years in industry, with much it spent running a full-time role and a contract at the same time.
+<br/>
+<br/>
+Most of that has been spent on document and knowledge systems where a wrong answer costs somebody something. Schema-constrained output, grounding verification against retrieved sources, confidence gating with explicit refusal, retrieval scored against a golden set, HITL correction loops, evals wired into CI, etc. I came up through corporate software QA and automation, so "how do I know this is right" tends to be a design input for me rather than something bolted on at the end, which matters more with a model in the loop than it did with deterministic software.
+<br/>
+<br/>
+Current work is all built on full stack, of course. The backend, the frontend, auth, deployment, and the CI also has to pass before any of it ships.
+<br/>
+<br/>
+Production work is in private client and company repos. The public ones are deliberately smaller, single problems scoped so the whole thing is readable in a sitting. Most have a decisions doc or similar documentation listing the alternatives I rejected and what would make me revisit them, which is more useful than the code if you're evaluating judgment. I'm working toward architecture and solutions engineering, and these repos are where I practice making those calls in the open.
 </p>
 <br/>
 
@@ -21,14 +25,15 @@ I'm an AI engineer with 7 years of industry experience whose client work is most
 
 ```javascript
 const shawn = {
-    code: [TypeScript, Javascript, Python, C#],
+    code: [Python, TypeScript, C#],
     askMeAbout: ["RAG Architecture", "Industrial AI", "Web Dev", "Tech Trends"],
     technologies: {
         ai_ml: {
             apis: [Claude, Gemini, GPT],
-            orchestration: [LangChain, RAG],
-            vector_infra: [ChromaDB, "Hugging Face Embeddings"],
-            extraction: ["Unstructured.io"],
+            orchestration: [LangGraph, LangChain, RAG],
+            vector_infra: [pgvector, ChromaDB, "Hugging Face Embeddings"],
+            extraction: ["Unstructured.io", Pydantic, Tesseract],
+            eval: ["golden sets", "LLM-as-a-judge", OpenTelemetry]
         },
         frontEnd: {
             js: [React, "Next.js", "React Native"],
@@ -40,7 +45,7 @@ const shawn = {
             python: [FastAPI, gRPC, REST],
         },
         databases: [PostgreSQL, MongoDB, SQLite],
-        devOps: [Docker🐳, "GitHub Actions", "AWS(EC2/S3/Lambda)"],
+        devOps: [Docker🐳, "GitHub Actions", pytest, Playwright],
     },
     currentFocus: "Engineering AI systems for complex datasets",
     funFact: "I've climbed Angel's Landing 8 times!"
