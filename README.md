@@ -1,4 +1,4 @@
-<h2>Hey <img src="https://github.com/TheWerbinator/TheWerbinator/blob/main/Hi.gif" width="29px" alt="waving hand emoji"> I'm Shawn! <img src="https://github.com/TheWerbinator/TheWerbinator/blob/main/halo-master-chief.gif" width="50" alt="Master Chief performing Orange Justice"></h2>
+<h2>Hey <img src="https://github.com/TheWerbinator/TheWerbinator/main/Hi.gif" width="29px" alt="waving hand emoji"> I'm Shawn! <img src="https://github.com/TheWerbinator/TheWerbinator/main/halo-master-chief.gif" width="50" alt="Master Chief performing Orange Justice"></h2>
 <p>AI Engineer at <a href="https://www.e360.com/">e360</a>.</p>
 <a href="https://www.linkedin.com/in/shawn-werber">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
