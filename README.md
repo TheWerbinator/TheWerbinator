@@ -5,18 +5,19 @@
 </a>
 <br/>
 <br/>
-<strong>What I'm working on
-</strong>
+<strong>Who I am</strong>
 <p>
-I'm an AI engineer with seven years in industry, with much it spent running a full-time role and a contract at the same time.
+I'm an AI engineer with seven years in industry, with the last few years spent running a full-time role and contracts at the same time.
 <br/>
 <br/>
-Most of that has been spent on document and knowledge systems where a wrong answer costs somebody something. Schema-constrained output, grounding verification against retrieved sources, confidence gating with explicit refusal, retrieval scored against a golden set, HITL correction loops, evals wired into CI, etc. I came up through corporate software QA and automation, so "how do I know this is right" tends to be a design input for me rather than something bolted on at the end, which matters more with a model in the loop than it did with deterministic software.
+Most of that has been spent on document and knowledge systems where wrong answers have real world costs. I came up through corporate software QA and automation, so "how do I know this is right" tends to be a design input for me rather than something bolted on at the end, which matters more with a model in the loop than it did with deterministic software.<br/>
+<br/>I approach AI with that same caution: schema-constrained output, grounding verification against retrieved sources, confidence gating with explicit refusal, retrieval scored against a golden set, HITL correction loops, evals wired into CI, etc.
 <br/>
 <br/>
-Current work is all built on full stack, of course. The backend, the frontend, auth, deployment, and the CI also has to pass before any of it ships.
-<br/>
-<br/>
+Current work with AI is all built on full stack, of course. The backend, frontend, auth, deployment, and CI also have to pass before any of it ships.
+</p>
+<strong>What's going on here</strong>
+<p>
 Production work is in private client and company repos. The public ones are deliberately smaller, single problems scoped so the whole thing is readable in a sitting. Most have a decisions doc or similar documentation listing the alternatives I rejected and what would make me revisit them, which is more useful than the code if you're evaluating judgment. I'm working toward architecture and solutions engineering, and these repos are where I practice making those calls in the open.
 </p>
 <br/>
